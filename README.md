@@ -19,7 +19,7 @@ This project was taken from  [Udemy by Brad Traversy and Florin Pop](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://zoxabbasi.github.io/expanding-cards_brad-traversy/)
+- Live Site URL: [Expanding cards](https://zoxabbasi.github.io/expanding-cards_brad-traversy/)
 
 ## My process
 
