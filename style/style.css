@@ -47,7 +47,7 @@ main {
 }
 
 .panel.active {
-    flex: 5;
+    flex: 7;
 }
 
 .panel.active h3 {

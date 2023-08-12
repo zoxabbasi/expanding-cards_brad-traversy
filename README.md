@@ -23,14 +23,13 @@ This project was taken from  [Udemy by Brad Traversy and Florin Pop](https://www
 
 ## My process
 
-- Using CSS Flexbox to style the page and Javascript to add and remove 'active' class from images.
+- Using CSS Flexbox to style the page and Javascript to add and remove 'active' class from images using eventListerner and forEach loops.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS GRID
-- Mobile-first workflow
 
 ## Author
 
